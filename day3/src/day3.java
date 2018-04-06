@@ -1,0 +1,17 @@
+
+public class day3 {
+	public static void main(String[] args){
+		Man a = new Man();
+		
+		System.out.print(a.name);
+		
+		
+	}
+	
+
+}
+class Man {
+	
+	String name;
+	
+}
